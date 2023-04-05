@@ -1,6 +1,8 @@
-Olá, esse projeto é um trabalho que foi solicitado pela minha mentora Sara Lopes do EducaTRANSforma!
+Olá, esse projetinho é um exercício solicitado pela minha mentora Sara Lopes do EducaTRANSforma.
 
-Nesse trabalho fiz um menu horizontal simples com HTML e CSS. Minha base de estudo e aprofundamento foi um curso de programação que estou fazendo pelo site https://www.rocketseat.com.br/ não deixando de ressaltar um vídeo essencial na construção desse menu, que foi: https://www.youtube.com/watch?v=CNiH_hkvcDA (Vídeo retirado do canal no Youtube do SatellaSoft)
+Nele, fiz um menu horizontal simples com HTML e CSS. Minha base de estudo e aprofundamento foi a trilha de programação disponível no site da Rocketseat, não deixando de ressaltar o vídeo do canal SatellaSoft, responsável por me instruir na construção desse menu.
 
+Agradeço sua atenção.
 
-Aproveitem :D
+Fonte:
+Criando um menu horizontal com HTML e CSS (Youtube): https://www.youtube.com/watch?v=CNiH_hkvcDA
