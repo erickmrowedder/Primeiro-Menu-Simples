@@ -1,8 +1,9 @@
-Olá, esse projetinho é um exercício solicitado pela minha mentora Sara Lopes do EducaTRANSforma.
+# Olá! tudo bem? :D
 
-Nele, fiz um menu horizontal simples com HTML5 e CSS3. Minha base de estudo e aprofundamento foi a trilha de programação disponível no site da Rocketseat, não deixando de ressaltar o vídeo do canal SatellaSoft, responsável por me instruir na construção desse menu.
+# Este projeto foi desenvolvido para estudo e aprofundamento do HTML5 e CSS3.
 
-Agradeço sua atenção.
+Trata-se de um menu horizontal moderno e simples, que encaixa-se perfeitamente em qualquer website! 
 
 Fonte:
 Criando um menu horizontal com HTML e CSS (Youtube): https://www.youtube.com/watch?v=CNiH_hkvcDA
+
